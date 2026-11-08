@@ -7,7 +7,7 @@ A collection of [OpenCode](https://opencode.ai) skills. Each folder is one skill
 Clone this repo into your global opencode config:
 
 ```sh
-git clone https://git.alfredai.net/Tevin/opencode-skills.git ~/.config/opencode/skills
+git clone https://github.com/Batman313v/skills.git ~/.config/opencode/skills
 ```
 
 Or, if you already have a `skills/` folder with skills of your own, copy the skill folders you want into it:
